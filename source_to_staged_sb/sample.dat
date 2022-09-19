@@ -1,0 +1,5 @@
+{
+    "container": "test",
+    "source_path": "source/sample2.json",
+    "target_path": "stage/sample2.json"
+}
